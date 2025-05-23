@@ -2,7 +2,7 @@
 
 In this project, I conducted an in-depth analysis of over 119,000 hotel booking records to uncover key factors influencing reservation outcomes such as cancellations, special requests, and lead times. The dataset contained a mix of numerical and categorical features with missing and redundant values.
 
-## Key Contributions**:
+## Key Contributions:
 
 **Data Cleaning**: Removed missing values and dropped high-nullity columns (e.g., agent, company) to improve data quality.
 **Feature Engineering**: Converted date columns to datetime format to enable time-based analysis.
